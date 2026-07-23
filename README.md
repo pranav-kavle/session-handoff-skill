@@ -19,10 +19,15 @@ The output is a fenced markdown block you can paste directly at the top of a new
 
 ## Installation
 
-### Claude Code (plugin marketplace)
+### Claude Code
 
+```bash
+claude plugin install session-handoff@github:pranav-kavle/session-handoff-skill
 ```
-/plugin marketplace add pranav-kavle/session-handoff-skill
+
+Or in a session:
+```
+/plugin install session-handoff@github:pranav-kavle/session-handoff-skill
 ```
 
 ### skills CLI (all compatible agents)

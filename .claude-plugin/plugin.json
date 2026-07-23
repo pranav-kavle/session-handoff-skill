@@ -1,0 +1,13 @@
+{
+  "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
+  "name": "session-handoff",
+  "version": "0.1.0",
+  "description": "Summarize a Claude Code session into a paste-ready handoff for a new session",
+  "author": {
+    "name": "Pranav Kavle",
+    "email": "pranav.kavle@sidley.com"
+  },
+  "skills": [
+    "./"
+  ]
+}
